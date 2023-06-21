@@ -18,6 +18,9 @@ Bu proje, bir arşivin otomasyonunu sağlamak için geliştirilmiştir. Arşivle
 - Visual Studio 2019 (https://support.microsoft.com/tr-tr/topic/windows-i%C3%A7in-net-framework-4-6-1-%C3%A7evrimd%C4%B1%C5%9F%C4%B1-y%C3%BCkleyicisi-842e545a-bad5-c538-e491-578d017e677)
 - SonıcwallNetexteder(https://www.sonicwall.com/products/remote-access/vpn-clients/)
 
+## Tanıtım Videosu Linki
+- https://clipchamp.com/watch/tF1MefXoOug
+
 
 ## Kurulum
 
